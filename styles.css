@@ -1,12 +1,16 @@
 
 *{background-color: #495464;
 font-family: Tahoma;
-color: white;
-}
+color: white;}
+
 li{font-family: "Comic Sans MS", "Comic Sans", cursive;}
+
 h1{font-style: bold;
 color: #BC6FF1;}
+
 a{color: #F05454;}
+
+
 hr{
         height: 1px;
         background-color: #ccc;
